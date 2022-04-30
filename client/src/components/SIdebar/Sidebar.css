@@ -1,0 +1,12 @@
+.sidebar-component-wrapper {
+  position: absolute;
+  top: var(--header-height);
+  width: 20%;
+  height: calc(100vh - 60px);
+  background-color: #151d26;
+  color: #ffffff;
+}
+
+.add-node-btn {
+  margin: 10px auto;
+}

@@ -1,0 +1,32 @@
+.add-edge-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  flex-wrap: wrap;
+  margin: 10px auto;
+}
+.add-edge-input-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.edge-input {
+  border: none;
+  width: 40%;
+  border-radius: 20px;
+  padding: 5px 10px;
+  outline: none;
+  margin-left: 5px;
+}
+.submit-input {
+  flex: 0 0 100%;
+  border: none;
+  border-radius: 5px;
+  background-color: #0079ff;
+  padding: 5px 15px;
+  color: #ffffff;
+  font-size: 16px;
+  display: block;
+  margin:10px 0;
+}

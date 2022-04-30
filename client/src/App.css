@@ -1,0 +1,13 @@
+:root {
+  --header-height: 60px;
+}
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}

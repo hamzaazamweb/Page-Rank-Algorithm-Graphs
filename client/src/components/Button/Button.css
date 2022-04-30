@@ -1,0 +1,12 @@
+.app-button {
+  border: none;
+  border-radius: 5px;
+  background-color: #0079ff;
+  padding: 5px 15px;
+  color: #ffffff;
+  font-size: 16px;
+  display: block;
+}
+.app-button:hover {
+  cursor: pointer;
+}

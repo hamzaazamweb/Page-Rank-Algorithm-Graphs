@@ -1,0 +1,7 @@
+.page-rank-wrapper {
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
